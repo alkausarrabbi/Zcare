@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBoSHBbtQpLI8cMko-9N4HQeM5Kgf4qhDQ",
-  authDomain: "z-care-org.firebaseapp.com",
-  projectId: "z-care-org",
-  storageBucket: "z-care-org.appspot.com",
-  messagingSenderId: "344263097016",
-  appId: "1:344263097016:web:4a2115c22d2d98f02ad24d",
-  measurementId: "G-18LMX87JW6"
+  apiKey: "AIzaSyCxr96ntyW5Y2neXQVd4-XZeLl5xWlwGmQ",
+  authDomain: "z-care-a068f.firebaseapp.com",
+  projectId: "z-care-a068f",
+  storageBucket: "z-care-a068f.appspot.com",
+  messagingSenderId: "908295865822",
+  appId: "1:908295865822:web:2da163be9e319ee85cc94f",
+  measurementId: "G-VJQGGZD636"
 };
 
   export default firebaseConfig;
